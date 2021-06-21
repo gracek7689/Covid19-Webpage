@@ -1,0 +1,88 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  border: 3em;
+  background-color: #f4cd64;
+}
+
+h1 {
+  
+  color: #008080;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 1px 4px white;
+  
+}
+
+p {
+  color: #a93581;
+}
+
+#shave-ice{
+  border-radius: 50%;
+}
+.last{
+  background-color: #d8c2dc;
+}
+
+
+.foodSec{
+  background-color: #e9f5dc;
+   flex-direction:row;
+  display:flex;
+  justify-content: space-between;
+  
+}
+ul{
+  background-color: white;
+}
+#sunset{
+  margin-left: 50px;
+  border-radius: 50%;
+  
+}
+#name{
+  color: blue;
+  background-color: pink;
+}
+a:hover{
+  font-size: 20px;
+  color: #6497b1;
+  font-weight: bold;
+
+}
+div{
+  background-color:#d8c2dc;
+  
+}
+.o{
+  
+    background-color:#cdfbdd;
+
+}
+h4{
+  font-family: 'Pacifico', cursive;
+  background-color: white;
+}
+h2{
+  font-family: 'Pacifico', cursive;
+  background-color: white;
+}
+.lastSec{
+  background-color: #00b8ae;
+}
+.middle{
+    flex-direction:row;
+  display:flex;
+  justify-content: space-between;
+    background-color:#cdfbdd;
+
+
+}
+#coco{
+  margin-left: 100px;
+  border-radius: 40%;
+  border: 3px solid white;
+  
+}
